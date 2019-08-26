@@ -5,6 +5,6 @@
 ## Rewards program:
 * Devs coding action (coordinate by Musicoin FoundAction)
 * Ambassador Program (coordinate by Musicoin Ambassador Office)
-* Believer Program
+* Believer Program (Musicoin community)
 * Tips and listen song (Musicoin community)
 
