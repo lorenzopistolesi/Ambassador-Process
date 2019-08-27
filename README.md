@@ -5,7 +5,7 @@
 ## Rewards program:
 * Devs coding action (coordinate by Musicoin Foundation)
 * [Ambassador Program (coordinate by Musicoin Ambassador Office)](https://sites.google.com/view/musicoinmap) 
-* [Believer Program (coordinate by Musicoin Ambassadors)]
+* [Believer Program (coordinate by Musicoin Ambassadors)](https://hyperspace.app/post/5d652c4fccef1d0010ff422a?asset=LzV4g2618)
 * [Tips and listen song (coordinates by Musicoin community)](https://musicoin.org/nav/main)
 
 
